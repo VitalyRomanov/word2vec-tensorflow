@@ -1,0 +1,9 @@
+.DS_Store
+.idea
+__pycache__
+model*
+*.txt
+*.7z
+*copy.py
+*.pkl
+*.tsv
